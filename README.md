@@ -11,8 +11,7 @@ This project reads color images from a folder and converts them into **grayscale
 - **Batch Processing**: Processes the first 100 images from the input folder.
 - **File Handling**: Utilizes Python's `os` module for directory and file management.
 
----
 ## Working
 
-- Download the <https://github.com/Sukanya-29/Coloured_to_GrayScale/blob/main/input_images.zip>input_images folder , unzip it and upload in goggle colab file.
+- Download the [input_images] (https://github.com/Sukanya-29/Coloured_to_GrayScale/blob/main/input_images.zip) folder , unzip it and upload in google colab file.
 
