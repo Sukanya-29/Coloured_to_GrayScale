@@ -2,8 +2,6 @@
 
 This project reads color images from a folder and converts them into **grayscale (black & white)** format using Python and OpenCV. It processes up to **100 images** and saves the converted versions into an output folder.
 
----
-
 ## Core Concept
 
 - **Image Processing with OpenCV**: Uses OpenCV to read, convert, and save images.
